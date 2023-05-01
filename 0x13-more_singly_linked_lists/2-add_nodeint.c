@@ -2,7 +2,7 @@
 
 /**
  * add_nodeint - adds a node to the top
- * @hesd: pointer to first node
+ * @head: pointer to first node
  * @n: value for new node
  *
  * Return: pointer to new node
